@@ -13,7 +13,4 @@ A EAP foi organizada em **3 níveis** e escrita com **entregas (substantivos)**,
 | [`EAP.md`](./EAP.md) | EAP do módulo em 3 níveis, com dicionário resumido das entregas |
 | `README.md` | Este arquivo (objetivo do repositório e autor) |
 
-## Autor
 
-**Henrique de Paula**
-Estudante de Análise e Desenvolvimento de Sistemas – Universidade Anhembi Morumbi
