@@ -10,6 +10,6 @@ A EAP foi organizada em **3 níveis** e escrita com **entregas (substantivos)**,
 
 arquivo readme.md : EAP do módulo em 3 níveis, com dicionário resumido das entregas
 
-EAP.md: EAP do módulo em 3 níveis, com dicionário resumido das entregas 
+arquivo EAP.md: EAP do módulo em 3 níveis, com dicionário resumido das entregas 
 
 Nome: Bruno Ovando Rios
