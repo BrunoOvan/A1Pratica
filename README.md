@@ -4,7 +4,7 @@
 
 Este repositório reúne a **Estrutura Analítica do Projeto (EAP)** do **Módulo de Importação de XML de NF-e**, um módulo de software responsável por receber arquivos XML de Notas Fiscais Eletrônicas, validá-los, interpretá-los e armazenar seus dados para consulta e uso posterior.
 
-A EAP foi organizada em **3 níveis** e escrita com **entregas (substantivos)**, não com atividades (verbos), seguindo as boas práticas do PMBOK.
+A EAP foi organizada em **3 níveis** e escrita com **entregas (substantivos)**.
 
 ## Conteúdo
 
